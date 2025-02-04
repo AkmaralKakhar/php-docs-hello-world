@@ -65,4 +65,4 @@ jobs:
           app-name: 'cmtr-caf198d9-static-web-app'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_01C4B7E3BF74408B9C4A32BC61B2F6D8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_778AFCD708E643D09DA8E2FD1644BABF }}
